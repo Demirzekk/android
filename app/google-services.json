@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735452407256",
+    "project_id": "hero-games-assisment",
+    "storage_bucket": "hero-games-assisment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735452407256:android:0a100a9318719938323ead",
+        "android_client_info": {
+          "package_name": "com.example.hero_games_assingment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fjdSl2WGeZrgfDnXMHwC49UgPnpwYZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
